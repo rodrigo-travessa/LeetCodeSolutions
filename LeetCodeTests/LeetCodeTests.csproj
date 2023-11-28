@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\205_IsomorphicStrings\205_IsomorphicStrings.csproj" />
+    <ProjectReference Include="..\Solutions\Solutions.csproj" />
   </ItemGroup>
 
 </Project>

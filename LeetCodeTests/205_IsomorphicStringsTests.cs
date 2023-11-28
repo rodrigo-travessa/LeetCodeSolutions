@@ -1,4 +1,5 @@
-using LeetCode;
+
+using Solutions;
 
 namespace LeetCodeTests
 
@@ -15,7 +16,7 @@ namespace LeetCodeTests
         [InlineData("ab", "aa", false)]
         public void Test1(string s, string t, bool res)
         {
-            Solution test = new Solution();
+            Isomorphic_Strings test = new Isomorphic_Strings();
             Assert.Equal(res, test.IsIsomorphic(s, t));
         }
     }

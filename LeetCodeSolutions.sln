@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "205_IsomorphicStrings", "205_IsomorphicStrings\205_IsomorphicStrings.csproj", "{99CF67F4-1AE7-4681-ABEC-BBB63F4BEF77}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeTests", "LeetCodeTests\LeetCodeTests.csproj", "{BDC4B2F9-0864-4A5C-8C7D-63A824E1C99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions", "Solutions\Solutions.csproj", "{5CEE7FDB-27D8-4A3E-910D-B83CB0864311}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{99CF67F4-1AE7-4681-ABEC-BBB63F4BEF77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{99CF67F4-1AE7-4681-ABEC-BBB63F4BEF77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{99CF67F4-1AE7-4681-ABEC-BBB63F4BEF77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{99CF67F4-1AE7-4681-ABEC-BBB63F4BEF77}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BDC4B2F9-0864-4A5C-8C7D-63A824E1C99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BDC4B2F9-0864-4A5C-8C7D-63A824E1C99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDC4B2F9-0864-4A5C-8C7D-63A824E1C99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDC4B2F9-0864-4A5C-8C7D-63A824E1C99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEE7FDB-27D8-4A3E-910D-B83CB0864311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEE7FDB-27D8-4A3E-910D-B83CB0864311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEE7FDB-27D8-4A3E-910D-B83CB0864311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEE7FDB-27D8-4A3E-910D-B83CB0864311}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
