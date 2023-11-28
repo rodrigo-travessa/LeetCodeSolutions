@@ -22,4 +22,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\205_IsomorphicStrings\205_IsomorphicStrings.csproj" />
+  </ItemGroup>
+
 </Project>
